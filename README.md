@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Omoakah</h1>
-<h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyomoakah&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyomoakah" /> </p>
 
-- 🔭 I’m currently working as DevOps engineer **at GDSC**
+- 🔭 I’m currently working as Software engineer **at GDSC**
 
 - 🌱 I’m currently learning **AWS, Terraform**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jeffreyomoakah](https://medium.com/@jeffreyomoakah)
 
-- 💬 Ask me about **docker, Kubernetes.**
+- 💬 Ask me about **React, Typescript, Docker, Kubernetes.**
 
 - 📫 How to reach me **jomoakah3@gmail.com**
 
