@@ -1,48 +1,53 @@
-## <div align="center">Hey 👋, I'm Jeffrey Omoakah!</div>  
-  
+### `~ $ whoami`
 
-**Golang | Python • SQL • AWS • Docker • Kubernetes**  
-  
+```text
+theyenvyjeffrey — open-source maintainer
+```
 
-<a href="https://twitter.com/jeffreyomoakah" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/JeffreyOmoakah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jeffrey-omoakah" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/jeffreyomoakah" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+### `~ $ ls projects --sort=stars`
 
+<table>
+<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/JeffreyOmoakah/Mini-s3-bucket">Mini-s3-bucket</a></td><td align="left">a S3-compatible distributed object storage system built in Go</td><td align="right">2</td></tr>
+<tr><td align="left"><a href="https://github.com/JeffreyOmoakah/load-tester-go">load-tester-go</a></td><td align="left">a concurrent HTTP load testing tool written in Go</td><td align="right">1</td></tr>
+<tr><td align="left"><a href="https://github.com/JeffreyOmoakah/Mini-MapReduce-in-Go">Mini-MapReduce-in-Go</a></td><td align="left">a mini implementation of map-reduce whitepaper for processing and generating large data sets</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/JeffreyOmoakah/gRPC-Order-Management-Service">gRPC-Order-Management-Service</a></td><td align="left">A microservice-based order management system built with Go, featuring gRPC for inter-service communication and HTTP for external APIs</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/JeffreyOmoakah/netscout">netscout</a></td><td align="left">A fast, concurrent TCP port scanner built in Go. Scan single hosts or entire CIDR ranges with configurable worker pools, rate limiting, and multiple output formats</td><td align="right">0</td></tr>
+</tbody>
+</table>
 
+### `~ $ cat stack.txt`
 
-### Glad to see you here!  
-🎯 Empowering organizations with clean, compliant, and impact-driven data.
-With 3+ years of experience in software engineering and data-focused development, I blend strong backend engineering skills with practical data insights to deliver scalable, reliable solutions.
+```text
+go          ████████████████████  90%
+python      █                      5%
+makefile    █                      3%
+plpgsql     █                      1%
+dockerfile  █                      1%
+```
 
-I specialize in building and optimizing data-driven systems using Go, SQL, AWS, and Docker—from designing efficient ETL workflows to implementing secure, compliant data architectures. I thrive at the intersection of data quality, engineering, and real-world business impact.  
-  
+### `~ $ ls -t projects | head -5`
 
-<br/>  
+```text
+2026-06-03  Mini-s3-bucket
+2026-04-08  load-tester-go
+2026-03-02  gRPC-Order-Management-Service
+2026-02-28  Mini-MapReduce-in-Go
+2026-02-19  netscout
+```
 
+### `~ $ stats`
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-</div>
-<br />
+```text
+repositories   13
+stars          3
+followers      8
+contributions  1,161 (last 12 months)
+```
 
+### `~ $ contact`
+
+<a href="https://github.com/jeffreyomoakah">GitHub</a>
+
+<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
